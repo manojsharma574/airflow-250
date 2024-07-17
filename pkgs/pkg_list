@@ -59,7 +59,7 @@ inflection==0.5.1
 itsdangerous==2.1.2
 Jinja2==3.1.2
 jsonschema==4.17.3
-lazy-object-proxy==1.8.0
+lazy-object-proxy==1.7.1
 linkify-it-py==2.0.0
 lockfile==0.12.2
 Mako==1.2.4
